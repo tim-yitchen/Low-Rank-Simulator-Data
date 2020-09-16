@@ -1,0 +1,10 @@
+cirq,818.5125422
+cirq std,17.08114038
+quasar (low rank),2.867123286
+quasar std (low rank),0.333253061
+quasar (full rank),741.3836026
+quasar std (full rank),0.224041074
+N,13
+depth,1
+gamma,0.001
+epsilon,0.0001
